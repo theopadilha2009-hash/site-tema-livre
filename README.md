@@ -76,3 +76,9 @@ Recursos aplicados:
 | `img/divisor-foguete.svg` | Autoria própria (desenhada em SVG) |
 
 Todas pesam bem menos de 300 KB. Os nomes das startups, os números da tabela, o endereço, o e-mail e o telefone são fictícios.
+
+## Entrega
+
+- [Pesquisa de tags HTML (Parte 1)](docs/Parte1-Documento-de-pesquisa-tags-HTML.pdf)
+- [Documento de evidências (Parte 2)](docs/Parte2-Documento-de-evidencias.pdf)
+- [Prints das evidências](evidencias/)
